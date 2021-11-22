@@ -1,2 +1,0 @@
-# Introduction
-Exam1
